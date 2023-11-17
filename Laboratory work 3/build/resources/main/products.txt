@@ -1,0 +1,20 @@
+[
+  {
+    "priceByCount": 10.99,
+    "name": "Product1",
+    "category": "MEAT",
+    "inFreezer": false
+  },
+  {
+    "priceByCount": 24.95,
+    "name": "Product2",
+    "category": "FISH",
+    "inFreezer": true
+  },
+  {
+    "priceByCount": 5.49,
+    "name": "Product3",
+    "category": "FRUITS",
+    "inFreezer": false
+  }
+]
